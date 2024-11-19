@@ -1,0 +1,24 @@
+body {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?cs=srgb&dl=pexels-thatguycraig000-1563356.jpg&fm=jpg);
+    opacity: 9;
+    justify-content: space-between;
+}
+
+.flex-container {
+    background-color: blue;
+    /* opacity: ; */
+
+}
+
+.images {
+    opacity: 0.5;
+    padding: 30 ;
+    max-width: 100%;
+    height: auto;
+}
